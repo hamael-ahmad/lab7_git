@@ -4,6 +4,9 @@
 #
 # How to run it:  python temperature_converter.py
 
+# Print out welcome message
+print("Welcome to the Temperature Converter!")
+
 # Ask the user for a temperature in Celsius
 celsius = float(input("Temperature in Celsius: "))
 
